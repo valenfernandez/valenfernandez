@@ -1,5 +1,4 @@
 <h2> Hi, I'm Valentina! 🌷 </h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5ZW04azdoZm1xNDR4bzNrbnR4dmc2c3Q2cWpzN3dkN3N2YW56ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9oa3sE4IdWbqO61WGT/giphy.webp" width="230">
 <p><em>
   <img src="https://webmail.mdp.edu.ar/soporte/logo.png" width="20"> Software Engineer <a href="https://www.mdp.edu.ar/">Universidad Nacional de Mar del Plata</a>
 </br>
